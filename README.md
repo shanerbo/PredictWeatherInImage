@@ -6,10 +6,10 @@
 * WebCam.py trains the data set and does the prediction without relabling and normalization
 * WebCamNormalized.py trains the data set and does the prediction with normalization
 * Relable.py trains the data set and does relabling and normalization.
-* predict.py trains the data set and takes your input image to predict the weather and time by using greyscale method and colourful image method.
-    ```
-python3 predict.py katkam-20170203150000.jpg 
-    ```
+* predict.py trains the data set and takes your input image to predict the weather and time by using greyscale method and              	 colourful image method.
+    	```
+	python3 predict.py katkam-20170203150000.jpg 
+    	```
     
 #### If you are intresting in using Tensorflow in this project :
 
