@@ -22,9 +22,9 @@
    ```
  
  * Type this command to test
- ```python
- python label_image.py tf_files/Cloudy/Cloudy329.jpg
- ```
+   ```python
+   python label_image.py tf_files/Cloudy/Cloudy329.jpg
+   ```
  
  * You will see something like this:
  ```python
