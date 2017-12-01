@@ -7,9 +7,9 @@
 * WebCamNormalized.py trains the data set and does the prediction with normalization
 * Relable.py trains the data set and does relabling and normalization.
 * predict.py trains the data set and takes your input image to predict the weather and time by using greyscale method and              	 colourful image method.
-    	```
-	python3 predict.py katkam-20170203150000.jpg 
-    	```
+    ```
+    python3 predict.py katkam-20170203150000.jpg 
+    ```
     
 #### If you are intresting in using Tensorflow in this project :
 
@@ -17,14 +17,14 @@
  * You should download tf_files.zip and uncompress it
  * Open terminal
  * Get testing script
-        ```
-    curl -L https://goo.gl/3lTKZs > label_image.py
-        ```
+   ```python
+   curl -L https://goo.gl/3lTKZs > label_image.py
+   ```
  
  * Type this command to test
-        ```
+ ```python
  python label_image.py tf_files/Cloudy/Cloudy329.jpg
-        ```
+ ```
  
  * You will see something like this:
  ```python
