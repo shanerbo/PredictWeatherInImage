@@ -1,6 +1,6 @@
-# CMPT318 Final Project
-###### Erbo Shan (301243663)
-###### Hao Zheng	(301266328)
+# Weather Image Recognition
+###### Erbo Shan 
+
 									
 #### There are four .py file
 * WebCam.py trains the data set and does the prediction without relabling and normalization
