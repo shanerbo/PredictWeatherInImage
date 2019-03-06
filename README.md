@@ -78,4 +78,3 @@ python retrain.py \
  * [Dcoker](https://www.docker.com) for training data on container
  * [References](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
 
-## Since we did the project in the peer programming way, Almost all the commits are from Erbo. 
