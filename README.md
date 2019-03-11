@@ -2,7 +2,7 @@
 ###### Erbo Shan 
 
 									
-#### There are four .py file
+#### This project includes four .py file
 * WebCam.py trains the data set and does the prediction without relabling and normalization
 * WebCamNormalized.py trains the data set and does the prediction with normalization
 * Relable.py trains the data set and does relabling and normalization.
@@ -13,8 +13,8 @@
     
 #### If you are intresting in using Tensorflow in this project :
 
- * You should download **retrained_graph.pb**
- * You should download tf_files.zip and uncompress it
+ * Download **retrained_graph.pb**
+ * Download tf_files.zip and uncompress it
  * Open terminal
  * Get testing script
    ```python
@@ -47,7 +47,7 @@
  The name of this images will be changed into Rainxx.jpg
  ```
  
->* If you want to rename each image based on your own. There is a function can help you (uncommend it in **WebCam.py** ):+1:
+>* If you want to rename each image. The function below will help (uncommend it in **WebCam.py** ):+1:
     ```
     # renaming(FileName, Classifier)
     ```
@@ -55,7 +55,7 @@
 #### If you want to retrain you own data set
 
 * Tensorflow is required, Docker is strongly recommended.
-* Work under same directory with tf_files
+* Work under the same directory with tf_files
 
 * Download traing script with this command
 ```
